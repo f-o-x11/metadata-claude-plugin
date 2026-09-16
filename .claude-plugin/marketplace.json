@@ -1,5 +1,6 @@
 {
   "name": "metadata-plugins",
+  "description": "Metadata advertising, audience, creative, and campaign-readiness workflows for Claude.",
   "owner": {
     "name": "Metadata Inc",
     "url": "https://metadata.io"
