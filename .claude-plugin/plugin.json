@@ -1,0 +1,14 @@
+{
+  "name": "metadata",
+  "displayName": "Metadata",
+  "version": "1.0.0",
+  "description": "Review B2B advertising performance, plan audiences, create brand-aware ad concepts, and check campaign readiness with your connected Metadata account.",
+  "author": {
+    "name": "Metadata Inc",
+    "url": "https://metadata.io"
+  },
+  "homepage": "https://github.com/f-o-x11/metadata-claude-plugin#readme",
+  "repository": "https://github.com/f-o-x11/metadata-claude-plugin",
+  "license": "MIT",
+  "keywords": ["metadata", "marketing", "advertising", "b2b", "campaigns", "audiences", "analytics", "mcp"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "metadata-plugins",
+  "owner": {
+    "name": "Metadata Inc",
+    "url": "https://metadata.io"
+  },
+  "plugins": [
+    {
+      "name": "metadata",
+      "source": "./",
+      "description": "B2B advertising workflows powered by Metadata MCP.",
+      "version": "1.0.0",
+      "author": {"name": "Metadata Inc"},
+      "category": "productivity",
+      "homepage": "https://github.com/f-o-x11/metadata-claude-plugin#readme"
+    }
+  ]
+}
